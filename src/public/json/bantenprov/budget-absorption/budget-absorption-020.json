@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "category": "Angkatan Kerja",
+      "opd": "Angkatan Kerja",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -26,7 +26,7 @@
   },
   {
     "xAxis": {
-      "category": "Angkatan Kerja",
+      "opd": "Angkatan Kerja",
       "region": "Negara",
       "name": "Indonesia",
       "data": [
@@ -51,7 +51,7 @@
   },
   {
     "xAxis": {
-      "category": "Rasio Ketersediaan Sekolah SMP-MTs",
+      "opd": "Rasio penyerapan anggaran per OPD",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -76,7 +76,7 @@
   },
   {
     "xAxis": {
-      "category": "Rasio Ketersediaan Sekolah SMP-MTs",
+      "opd": "Rasio penyerapan anggaran per OPD",
       "region": "Negara",
       "name": "Indonesia",
       "data": [

@@ -1,8 +1,8 @@
 [
   {
     "xAxis": {
-      "category": "Persentase Rasio Ketersediaan Sekolah SMP-MTs",
-      "type": "category",
+      "opd": "Persentase penyerapan anggaran per OPD",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten"
     },
@@ -20,8 +20,8 @@
   },
   {
     "xAxis": {
-      "category": "Persentase Rasio Ketersediaan Sekolah SMP-MTs",
-      "type": "category",
+      "opd": "Persentase penyerapan anggaran per OPD",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia"
     },

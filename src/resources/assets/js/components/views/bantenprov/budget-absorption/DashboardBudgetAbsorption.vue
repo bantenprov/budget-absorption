@@ -25,7 +25,7 @@
         <div class="card h-100" style="color: #fff; background-color: #009688;">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Ketersediaan Sekolah SMP-MTs Berdasarkan Wilayah
+            Anggaran dan Penyereapan Berdasarkan OPD
           </div>
           <div class="card-body">
             <budget-absorption-bar-01></budget-absorption-bar-01>
@@ -36,7 +36,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Ketersediaan Sekolah SMP-MTs Berdasarkan Wilayah
+            Anggaran dan Penyereapan Berdasarkan OPD
           </div>
           <div class="card-body">
             <budget-absorption-pie-01></budget-absorption-pie-01>
@@ -52,7 +52,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Ketersediaan Sekolah SMP-MTs Berdasarkan Kategori
+            Anggaran dan penyerapan per bulan tiap OPD
           </div>
           <div class="card-body">
             <budget-absorption-pie-02></budget-absorption-pie-02>
@@ -63,7 +63,7 @@
         <div class="card text-white bg-dark h-100">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Ketersediaan Sekolah SMP-MTs Berdasarkan Kategori
+            Anggaran dan penyerapan per bulan tiap OPD
           </div>
           <div class="card-body">
             <budget-absorption-bar-02></budget-absorption-bar-02>

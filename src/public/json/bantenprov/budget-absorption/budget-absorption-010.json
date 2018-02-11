@@ -1,14 +1,14 @@
 [
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2012",
       "index": "Banten-2012",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -22,14 +22,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2012",
       "index": "Indonesia-2012",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -43,14 +43,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2013",
       "index": "Banten-2013",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -64,14 +64,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2013",
       "index": "Indonesia-2013",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -85,14 +85,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2014",
       "index": "Banten-2014",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -106,14 +106,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2014",
       "index": "Indonesia-2014",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -127,14 +127,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2015",
       "index": "Banten-2015",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -148,14 +148,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2015",
       "index": "Indonesia-2015",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -169,14 +169,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2016",
       "index": "Banten-2016",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [
@@ -190,14 +190,14 @@
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2016",
       "index": "Indonesia-2016",
       "data": [
         "Angkatan Kerja",
-        "Rasio Ketersediaan Sekolah SMP-MTs"
+        "Rasio penyerapan anggaran per OPD"
       ]
     },
     "series": [

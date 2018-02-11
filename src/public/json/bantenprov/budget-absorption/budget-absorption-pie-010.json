@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2012",
@@ -11,14 +11,14 @@
       {
         "data": [
           {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.66,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":4.66,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2012",
@@ -28,14 +28,14 @@
       {
         "data": [
           {"value":119.85,"name":"Angkatan Kerja"},
-          {"value":112.5,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":112.5,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2013",
@@ -45,14 +45,14 @@
       {
         "data": [
           {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.69,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":4.69,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2013",
@@ -62,14 +62,14 @@
       {
         "data": [
           {"value":120.17,"name":"Angkatan Kerja"},
-          {"value":112.76,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":112.76,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2014",
@@ -79,14 +79,14 @@
       {
         "data": [
           {"value":5.34,"name":"Angkatan Kerja"},
-          {"value":4.86,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":4.86,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2014",
@@ -96,14 +96,14 @@
       {
         "data": [
           {"value":121.87,"name":"Angkatan Kerja"},
-          {"value":114.63,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":114.63,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2015",
@@ -113,14 +113,14 @@
       {
         "data": [
           {"value":5.33,"name":"Angkatan Kerja"},
-          {"value":4.83,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":4.83,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2015",
@@ -130,14 +130,14 @@
       {
         "data": [
           {"value":122.38,"name":"Angkatan Kerja"},
-          {"value":114.82,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":114.82,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2016",
@@ -147,14 +147,14 @@
       {
         "data": [
           {"value":5.59,"name":"Angkatan Kerja"},
-          {"value":5.09,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":5.09,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
+      "type": "opd",
       "region": "Negara",
       "name": "Indonesia",
       "yyyy": "2016",
@@ -164,7 +164,7 @@
       {
         "data": [
           {"value":125.44,"name":"Angkatan Kerja"},
-          {"value":118.41,"name":"Rasio Ketersediaan Sekolah SMP-MTs"}
+          {"value":118.41,"name":"Rasio penyerapan anggaran per OPD"}
         ]
       }
     ]
