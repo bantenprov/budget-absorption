@@ -9,6 +9,7 @@
 [![License](https://poser.pugx.org/bantenprov/budget-absorption/license)](https://packagist.org/packages/bantenprov/budget-absorption)
 [![Monthly Downloads](https://poser.pugx.org/bantenprov/budget-absorption/d/monthly)](https://packagist.org/packages/bantenprov/budget-absorption)
 [![Daily Downloads](https://poser.pugx.org/bantenprov/budget-absorption/d/daily)](https://packagist.org/packages/bantenprov/budget-absorption)
+
 Informasi anggarandan penyerapan pada organisai perangkat daerah
 
 ## install via composer
