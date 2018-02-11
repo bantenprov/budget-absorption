@@ -4,7 +4,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/build-status/master)
 
-Budget absorption;SMA/MA Menurut Kabupaten/Kota
+Informasi anggarandan penyerapan pada organisai perangkat daerah
 
 ## install via composer
 
