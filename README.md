@@ -3,7 +3,12 @@
 [![Join the chat at https://gitter.im/budget-absorption/Lobby](https://badges.gitter.im/budget-absorption/Lobby.svg)](https://gitter.im/budget-absorption/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/budget-absorption/build-status/master)
-
+[![Latest Stable Version](https://poser.pugx.org/bantenprov/budget-absorption/v/stable)](https://packagist.org/packages/bantenprov/budget-absorption)
+[![Total Downloads](https://poser.pugx.org/bantenprov/budget-absorption/downloads)](https://packagist.org/packages/bantenprov/budget-absorption)
+[![Latest Unstable Version](https://poser.pugx.org/bantenprov/budget-absorption/v/unstable)](https://packagist.org/packages/bantenprov/budget-absorption)
+[![License](https://poser.pugx.org/bantenprov/budget-absorption/license)](https://packagist.org/packages/bantenprov/budget-absorption)
+[![Monthly Downloads](https://poser.pugx.org/bantenprov/budget-absorption/d/monthly)](https://packagist.org/packages/bantenprov/budget-absorption)
+[![Daily Downloads](https://poser.pugx.org/bantenprov/budget-absorption/d/daily)](https://packagist.org/packages/bantenprov/budget-absorption)
 Informasi anggarandan penyerapan pada organisai perangkat daerah
 
 ## install via composer
